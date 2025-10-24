@@ -1,0 +1,122 @@
+# ============================================
+# Android Studio (Java & Kotlin)
+# ============================================
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android Studio captures and logs
+captures/
+output.json
+*.hprof
+
+# IntelliJ IDEA specific
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/gradle.xml
+.idea/compiler.xml
+.idea/vcs.xml
+
+# Kotlin specific
+*.kotlin_module
+*.kotlin_metadata
+*.kotlin_builtins
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo
+*~
+
+# Android specific
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.o
+*.so
+*.obj
+*.hprof
+
+# Generated folders
+app/build/
+*/build/
+*/out/
+generated/
+bin/
+gen/
+intermediates/
+libs/
+outputs/
+tmp/
+navigation.json
+
+# Log files
+*.log
+
+# Gradle local cache
+.gradle/
+buildSrc/.gradle/
+
+# Keystore files (VERY IMPORTANT: don't upload these!)
+*.jks
+*.keystore
+
+# Misc
+.idea/
+.cxx/
+.externalNativeBuild/
+*.orig
+*.rej
+
+# Android Studio Profiling
+*.trace
+*.alloc
+*.perf
+*.hprof
+
+# Crashlytics and Firebase
+crashlytics-build.properties
+fabric.properties
+app/google-services.json
+app/src/**/google-services.json
+
+# NDK / C++
+obj/
+.externalNativeBuild/
+
+# Jetpack Compose
+*.swp
+.idea/deploymentTargetDropDown.xml
+
+# Android test outputs
+androidTest-results/
+test-results/
