@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UF1-1-A15-ListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">UF1-1-A15 ListView</string>
+    <string name="txt_temporal">Test text</string>
+
+    <!-- MainActivity -->
+    <string name="titulo_agenda">Contact Agenda</string>
+    <string name="btn_agregar">+ Add</string>
+    <string name="btn_borrar">Delete</string>
+
+    <!-- ContactoActivity -->
+    <string name="titulo_detalles">Contact Details</string>
+    <string name="label_nombre">Name:</string>
+    <string name="label_apellido">Surname:</string>
+    <string name="label_telefono">Phone:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_direccion">Address:</string>
+    <string name="label_fecha_nacimiento">Date of Birth:</string>
+    <string name="label_notas">Notes:</string>
+
+    <string name="hint_nombre">Enter the name</string>
+    <string name="hint_apellido">Enter the surname</string>
+    <string name="hint_telefono">Enter the phone number</string>
+    <string name="hint_email">Enter the email</string>
+    <string name="hint_direccion">Enter the address</string>
+    <string name="hint_fecha">dd/mm/yyyy</string>
+    <string name="hint_notas">Enter additional notes</string>
+
+    <string name="btn_guardar">Save</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="btn_eliminar">Delete</string>
+
+    <!-- Mensajes -->
+    <string name="msg_nombre_obligatorio">Name is required</string>
+    <string name="msg_contacto_agregado">Contact added</string>
+    <string name="msg_contacto_actualizado">Contact updated</string>
+    <string name="msg_contacto_borrado">Contact removed</string>
+    <string name="msg_email_vacio">Email field is blank</string>
+    <string name="msg_telefono_vacio">Phone field is blank</string>
+
+    <!-- Diálogos -->
+    <string name="dialog_titulo_eliminar">Confirm deletion</string>
+    <string name="dialog_mensaje_eliminar">Are you sure you want to delete this contact?</string>
+
+</resources>

@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Act07</string>
+    <string name="activity_filla">Activity Filla #</string>
+    <string name="introdueix_resultat">Introdueix el resultat:</string>
+    <string name="escriu_aqui">Escriu aquí…</string>
+    <string name="retornar_resultat">Retornar Resultat</string>
+    <string name="activity_principal">Activity Principal</string>
+    <string name="llan_ar_activity_filla">Llançar Activity Filla</string>
+    <string name="resultats">Resultats:</string>
 </resources>
